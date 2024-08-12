@@ -1,3 +1,4 @@
+package Operators;
 public class Arithmetic_Operators {
 	public static void main(String[] args) {
 		// double num1 = 10.50;
